@@ -2,7 +2,7 @@
   "name": "testing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/iamanandpaul/monsters",
+  "homepage": "https://iamanandpaul.github.io/monster-new",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.2",
